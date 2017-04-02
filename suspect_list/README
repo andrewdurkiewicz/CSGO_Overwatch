@@ -1,0 +1,4 @@
+This is a program to track the decisions made for each counter strike suspect. To run, type "python3 makelist.py" Simply type the results as you go. This will save each result so you can easily print them out later. 
+
+To print, run the reader script using "python3 reader.py" Which will display the suspect number and the conviction.
+
